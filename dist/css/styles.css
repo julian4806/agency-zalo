@@ -3954,9 +3954,7 @@ textarea.form-control-lg {
     transition: none;
   }
 }
-.nav-link:hover, .nav-link:focus {
-  color: #cca000;
-}
+
 .nav-link.disabled {
   color: #6c757d;
   pointer-events: none;
@@ -11370,11 +11368,6 @@ p {
   letter-spacing: 0.0625em;
 }
 
-@media only screen and (max-width: 980px) {
-  #mainNav .navbar-nav .nav-item .nav-link:hover {
-     color: #ffc800;
-    }
-  }
 
 
 @media (min-width: 992px) {
